@@ -1,0 +1,6 @@
+openaiApiKey: "sk-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+openaiOrganizationID: "org-XXXXXXXXXXXXXXX"
+chatgptTriggerKeyword: "Hi bot:"
+redisUrl: ""
+redisPwd:
+redisUser:
